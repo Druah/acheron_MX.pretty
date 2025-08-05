@@ -1,7 +1,7 @@
 # Introduction
 
 > [!WARNING]
-> This is a fork of the Acheron MX KiCad footprint library. Certain footprints have been modified (according to my preference) to have larger pad surface area compared to the original footprints.
+> This is a fork of the Acheron MX KiCad footprint library. All footprints have been modified (according to my preferences) to feature a larger pad surface area than the original designs, along with offset solder mask openings for the stabilizer holes.
 
 Acheron MX is the AcheronProject's library for MX style footprint switches. These footprints have exposed pads on the front and back of the PCB, and were independently developed using the MX switch datasheet.
 
