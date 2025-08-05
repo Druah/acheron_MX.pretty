@@ -1,8 +1,7 @@
-# Acheron MX
+# Introduction
 
-![alt text](https://raw.githubusercontent.com/Gondolindrim/acheronLibrary/master/graphics/acheronReadme.png "Acheron Logo")
-
-## Introduction
+> [!WARNING]
+> This is a fork of the Acheron MX KiCad footprint library. Certain footprints have been modified (according to my preference) to have larger pad surface area compared to the original footprints.
 
 Acheron MX is the AcheronProject's library for MX style footprint switches. These footprints have exposed pads on the front and back of the PCB, and were independently developed using the MX switch datasheet.
 
